@@ -41,8 +41,8 @@ const config = {
         "text": "Quick and Easy Online Entry"
       }
     ],
-    "name": "Exclusive Open House Experience with Erica Reddy-Choquette",
-    "value": "Experience Value",
+    "name": "Arslan is the sickest",
+    "value": "DAMN DAWG",
     "description": "Win an exclusive guided open house tour with expert realtor Erica Reddy-Choquette! Explore top listings in the city, enjoy insights about the market, and get personalized advice tailored to your dream home goals.",
     "limitedTimeOfferText": "🏡 Exclusive Real Estate Giveaway!",
     "ctaButtonText": "I WANT TO WIN THIS!"
@@ -145,7 +145,7 @@ const config = {
     "copyrightOwner": "Royal LePage Signature"
   },
   "meta": {
-    "pageTitle": "Erica Reddy Open House Giveaway - Royal LePage Signature",
+    "pageTitle": "Arslan",
     "navBrandLogoText": "Erica Reddy",
     "privacyPolicyLink": "https://ericareddy.com",
     "termsLink": "https://ericareddy.com"
