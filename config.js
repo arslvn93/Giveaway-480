@@ -1,7 +1,7 @@
 const config = {
   "giveaway": {
     "name": "Arslan",
-    "heroHeadline": "Win a <span class='highlight'>Royal LePage Signature Open House Experience</span> with Erica Reddy-Choquette!",
+    "heroHeadline": "Arslan is <span class='highlight'>SO FRIGGIN SICK</span> init!!",
     "heroSubheadline": "Enter for a chance to join an exclusive Open House event with expert agent Erica Reddy-Choquette—where your dream home journey begins!",
     "promotionDates": "Promotion runs from May 8, 2025 until June 8, 2025.",
     "endDate": "2025-06-09T03:59:00.000Z",
